@@ -1,0 +1,22 @@
+{
+  "name": "javascript_project",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagval8888/javascript_project.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagval8888/javascript_project/issues"
+  },
+  "homepage": "https://github.com/nagval8888/javascript_project#readme"
+}
