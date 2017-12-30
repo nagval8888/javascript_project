@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/nagval8888/javascript_project/issues"
   },
-  "homepage": "https://github.com/nagval8888/javascript_project#readme"
+  "homepage": "https://github.com/nagval8888/javascript_project#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^3.10.0"
+  }
 }
